@@ -280,48 +280,6 @@
               "decimals": 0,
               "iconAlign": "left",
               "defaultText": ""
-            },
-            {
-              "boxShadow": "none",
-              "widgetName": "Divider1",
-              "thickness": 2,
-              "displayName": "Divider",
-              "iconSVG": "/static/media/icon.cbe8f608ca868e1eb44607e5fbd4a9e5.svg",
-              "searchTags": [
-                "line"
-              ],
-              "topRow": 56,
-              "bottomRow": 60,
-              "parentRowSpace": 10,
-              "type": "DIVIDER_WIDGET",
-              "capType": "nc",
-              "hideCard": false,
-              "animateLoading": true,
-              "parentColumnSpace": 20.0625,
-              "leftColumn": 22,
-              "dynamicBindingPathList": [
-                {
-                  "key": "borderRadius"
-                },
-                {
-                  "key": "accentColor"
-                }
-              ],
-              "key": "4gor0deh5u",
-              "dividerColor": "#858282",
-              "orientation": "horizontal",
-              "strokeStyle": "solid",
-              "isDeprecated": false,
-              "rightColumn": 42,
-              "widgetId": "zcwy6ofj5m",
-              "accentColor": "{{appsmith.theme.colors.primaryColor}}",
-              "capSide": 0,
-              "isVisible": true,
-              "version": 1,
-              "parentId": "0",
-              "renderMode": "CANVAS",
-              "isLoading": false,
-              "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}"
             }
           ]
         },
